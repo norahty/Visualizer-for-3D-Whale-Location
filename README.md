@@ -2,6 +2,9 @@
 
 ## Overview
 
+<img width="551" alt="Screen Shot 2022-08-28 at 2 01 12 PM" src="https://github.com/norahty/Visualizer-for-3D-Whale-Location/assets/94091909/967d7843-42bb-47cf-bece-e2e14b40fb45">
+
+
 This MATLAB code serves as a visualizer for whale location in 3D, taking input from the Locator program (previously developed). It uses the 2D rectangles of the estimated whale positions, color-coded if a whale was detected, to create 3D visualizations using the Julia Plotly package. The program consists of two main parts:
 
 1. **Finding Perimeters**: The program identifies the 2D perimeter of the whale's estimated position and stores it. This perimeter is represented by a sequence of points, outlining the boundary of the detected area.
